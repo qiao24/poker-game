@@ -1,0 +1,47 @@
+.zhuozi{
+	width: 700px;
+	height: 800px;
+
+	margin: 0 auto;
+	position: relative;
+	background: green
+}
+.pai{
+	width: 90px;
+	height: 130px;
+	background: black;
+	position: absolute;
+	top: 0;
+	left: 300px;
+	background-size: 100% 100%;
+}
+body{
+	background: green
+}
+.pai.yinying{
+ box-shadow: 0 0 4px 4px black;
+}
+.youyou{
+	width: 60px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	position: absolute;
+	bottom: 200px;
+	left: 330px;
+	background: red;
+	color:#fff;
+	border-radius: 50%
+}
+.huihui{
+	width: 60px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	position: absolute;
+	bottom: 150px;
+	left: 330px;
+	background: red;
+	color:#fff;
+	border-radius: 50%
+}
